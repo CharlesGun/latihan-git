@@ -1,1 +1,3 @@
 ini commit pertama
+
+beluma ada fitur 3
